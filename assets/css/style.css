@@ -253,6 +253,7 @@ section {
     max-width: 1400px;
     margin: 0 auto;
     padding: 5rem 2rem;
+    scroll-margin-top: 40px;
 }
 
 .section-title {
@@ -554,6 +555,10 @@ footer {
 
     .hero-text h1 {
         font-size: 2rem;
+    }
+
+    section{
+        scroll-margin-top: 45px;
     }
 
     .section-title {
